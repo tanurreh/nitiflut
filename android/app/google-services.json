@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "200413083255",
+    "project_id": "notiflut",
+    "storage_bucket": "notiflut.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200413083255:android:3173498d7763692a8cf872",
+        "android_client_info": {
+          "package_name": "com.example.notiflut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200413083255-ik7664ivkur20sltfv3gid8crqat4d3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG3JBeBbJ562URbN6s-Yj-E69mXEYQvJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200413083255-ik7664ivkur20sltfv3gid8crqat4d3l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "200413083255-r7cd8u238mohnh7vbhmefp7u6ol9tmbl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notiFlut"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200413083255:android:c741c958615c9a0e8cf872",
+        "android_client_info": {
+          "package_name": "com.tanu.noti_flut"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "200413083255-ik7664ivkur20sltfv3gid8crqat4d3l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCG3JBeBbJ562URbN6s-Yj-E69mXEYQvJ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "200413083255-ik7664ivkur20sltfv3gid8crqat4d3l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "200413083255-r7cd8u238mohnh7vbhmefp7u6ol9tmbl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.notiFlut"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
